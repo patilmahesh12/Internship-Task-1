@@ -5,25 +5,25 @@ const Header = () => {
   return (
     <header>
     <div className="container">
-      <nav class="navbar">
+      <nav className="navbar">
         <a href="#">
           <img src="/akatsuki.png" alt="SimpleBlog logo" width="150" class="logo-light" />
         </a>
 
         <div className="btn-group">
           <button className="theme-btn theme-btn-mobile light">
-            <ion-icon name="moon" class="moon"></ion-icon>
-            <ion-icon name="sunny" class="sun"></ion-icon>
+            <ion-icon name="moon" className="moon"></ion-icon>
+            <ion-icon name="sunny" className="sun"></ion-icon>
           </button>
 
           <button className="nav-menu-btn">
             <ion-icon name="menu-outline"></ion-icon>
           </button>
         </div>
-        {/* git commit -m "Your commit message" */}
+       
 
-        <div class="flex-wrapper">
-          <ul class="desktop-nav">
+        <div className="flex-wrapper">
+          <ul className="desktop-nav">
             <li>
               <a href="#" className="nav-link">Home</a>
             </li>

@@ -10,8 +10,8 @@ function App() {
     <>
     <Header/>
     <Hero/>
-    <Foot/>
     <Blog/>
+    <Foot/>
     </>
   )
 }

@@ -47,10 +47,10 @@ const Blog = () => {
                   <a href="#" className="h4">Julia Walker</a>
 
                   <p className="text-sm">
-                    <time datetime="2022-01-17">Jan 17, 2022</time>
+                    <time dateTime="2022-01-17">Jan 17, 2022</time>
                     <span className="separator"></span>
                     <ion-icon name="time-outline"></ion-icon>
-                    <time datetime="PT3M">3 min</time>
+                    <time dateTime="PT3M">3 min</time>
                   </p>
                 </div>
               </div>
@@ -91,10 +91,10 @@ const Blog = () => {
                   <a href="#" className="h4">Julia Walker</a>
 
                   <p className="text-sm">
-                    <time datetime="2021-12-10">Dec 10, 2021</time>
+                    <time dateTime="2021-12-10">Dec 10, 2021</time>
                     <span className="separator"></span>
                     <ion-icon name="time-outline"></ion-icon>
-                    <time datetime="PT2M">2 min</time>
+                    <time dateTime="PT2M">2 min</time>
                   </p>
                 </div>
               </div>
@@ -137,10 +137,10 @@ const Blog = () => {
                   <a href="#" className="h4">Julia Walker</a>
 
                   <p className="text-sm">
-                    <time datetime="2021-11-28">Nov 28, 2021</time>
+                    <time dateTime="2021-11-28">Nov 28, 2021</time>
                     <span className="separator"></span>
                     <ion-icon name="time-outline"></ion-icon>
-                    <time datetime="PT4M">4 min</time>
+                    <time dateTime="PT4M">4 min</time>
                   </p>
                 </div>
               </div>
@@ -184,10 +184,10 @@ const Blog = () => {
                   <a href="#" className="h4">Julia Walker</a>
 
                   <p className="text-sm">
-                    <time datetime="2021-11-20">Nov 20, 2021</time>
+                    <time dateTime="2021-11-20">Nov 20, 2021</time>
                     <span className="separator"></span>
                     <ion-icon name="time-outline"></ion-icon>
-                    <time datetime="PT4M">4 min</time>
+                    <time dateTime="PT4M">4 min</time>
                   </p>
                 </div>
               </div>
@@ -234,10 +234,10 @@ const Blog = () => {
                   <a href="#" className="h4">Julia Walker</a>
 
                   <p className="text-sm">
-                    <time datetime="2021-11-10">Nov 10, 2021</time>
+                    <time dateTime="2021-11-10">Nov 10, 2021</time>
                     <span className="separator"></span>
                     <ion-icon name="time-outline"></ion-icon>
-                    <time datetime="PT3M">3 min</time>
+                    <time dateTime="PT3M">3 min</time>
                   </p>
                 </div>
               </div>
@@ -281,10 +281,10 @@ const Blog = () => {
                   <a href="#" className="h4">Julia Walker</a>
 
                   <p className="text-sm">
-                    <time datetime="2021-10-25">Oct 25, 2021</time>
+                    <time dateTime="2021-10-25">Oct 25, 2021</time>
                     <span className="separator"></span>
                     <ion-icon name="time-outline"></ion-icon>
-                    <time datetime="PT7M">7 min</time>
+                    <time dateTime="PT7M">7 min</time>
                   </p>
                 </div>
               </div>
@@ -327,10 +327,10 @@ const Blog = () => {
                   <a href="#" className="h4">Julia Walker</a>
 
                   <p className="text-sm">
-                    <time datetime="2021-10-15">Oct 15, 2021</time>
+                    <time dateTime="2021-10-15">Oct 15, 2021</time>
                     <span className="separator"></span>
                     <ion-icon name="time-outline"></ion-icon>
-                    <time datetime="PT5M">5 min</time>
+                    <time dateTime="PT5M">5 min</time>
                   </p>
                 </div>
               </div>
@@ -372,10 +372,10 @@ const Blog = () => {
                   <a href="#" className="h4">Julia Walker</a>
 
                   <p className="text-sm">
-                    <time datetime="2021-10-03">Oct 3, 2021</time>
+                    <time dateTime="2021-10-03">Oct 3, 2021</time>
                     <span className="separator"></span>
                     <ion-icon name="time-outline"></ion-icon>
-                    <time datetime="PT5M">5 min</time>
+                    <time dateTime="PT5M">5 min</time>
                   </p>
                 </div>
               </div>
@@ -416,10 +416,10 @@ const Blog = () => {
                   <a href="#" className="h4">Julia Walker</a>
 
                   <p className="text-sm">
-                    <time datetime="2021-09-13">Sep 13, 2021</time>
+                    <time dateTime="2021-09-13">Sep 13, 2021</time>
                     <span className="separator"></span>
                     <ion-icon name="time-outline"></ion-icon>
-                    <time datetime="PT7M">7 min</time>
+                    <time dateTime="PT7M">7 min</time>
                   </p>
                 </div>
               </div>
@@ -464,10 +464,10 @@ const Blog = () => {
                   <a href="#" className="h4">Julia Walker</a>
 
                   <p className="text-sm">
-                    <time datetime="2021-09-21">Sep 21, 2021</time>
+                    <time dateTime="2021-09-21">Sep 21, 2021</time>
                     <span className="separator"></span>
                     <ion-icon name="time-outline"></ion-icon>
-                    <time datetime="PT4M">4 min</time>
+                    <time dateTime="PT4M">4 min</time>
                   </p>
                 </div>
               </div>
