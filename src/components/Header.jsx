@@ -7,7 +7,7 @@ const Header = () => {
     <div className="container">
       <nav className="navbar">
         <a href="#">
-          <img src="/akatsuki.png" alt="SimpleBlog logo" width="150" class="logo-light" />
+          <img src="https://www.pngmart.com/files/23/Akatsuki-Logo-PNG-Pic.png" alt="SimpleBlog logo" width="150" class="logo-light" />
         </a>
 
         <div className="btn-group">
